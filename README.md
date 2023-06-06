@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NarasimhaInamdar
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning C,C##,Python
+- 👀 I’m interested in VLSI
+- 🌱 I’m currently learning Veilog,Embedded C,Python and C
 - 📫 How to reach me narasimhainamdar@gmail.com
 
 <!---
